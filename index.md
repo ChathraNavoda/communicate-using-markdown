@@ -83,3 +83,10 @@ class MyHomePage extends StatelessWidget {
   }
 }
 ```
+
+## Make a list
+### Day 1 as an intern
+
+- [x] Completed **Introduction-to-github** 
+- [x] Completed **Communicate-using-markdown**
+- [ ] Next task is **Hello-Github-actions**
