@@ -90,3 +90,14 @@ class MyHomePage extends StatelessWidget {
 - [x] Completed **Introduction-to-github** 
 - [x] Completed **Communicate-using-markdown**
 - [ ] Next task is **Hello-Github-actions**
+
+
+## Add task list
+### Create new Flutter project
+
+- [ ] Invoke View > Command Palette.
+- [ ] Type “flutter”, and select the Flutter: New Project.
+- [ ] Select Application.
+- [ ] Create or select the parent directory for the new project folder.
+- [ ] Enter a project name, such as my_app, and press Enter.
+- [ ] Wait for project creation to complete and the main.dart file to appear.
